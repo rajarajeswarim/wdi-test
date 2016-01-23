@@ -1,0 +1,28 @@
+body {
+font-family:sans-seriff;
+font-size:16px;
+background-color :#D02F2F;
+width:100%;
+width:960px;
+margin:0px auto;
+}
+
+h1 { color:#000000;
+font-family:sans-seriff;
+font-size:20px;}
+
+.txtBox 
+{
+width:150px;
+padding:6px;
+BORDER:1PX SOLID #000000;
+border-radius:3px;
+}
+
+.submitBtn{
+background-color:#DFDFDF;
+color:#000000;
+padding:10px;
+border-radius:5px;
+font-weight:bold;
+}
